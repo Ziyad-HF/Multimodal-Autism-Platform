@@ -69,15 +69,29 @@ Our platform integrates several cutting-edge AI models into a modular pipeline:
 ---
 
 ## 📰 Media Coverage  
-Our project received wide recognition in both Egyptian and international media after winning **1st place** in the Dell Technologies competition:  
 
-- [صفحة جامعة القاهرة الرسمية على فيسبوك](https://www.facebook.com/share/p/1GNXCyYPTJ/)  
+Our project received wide recognition in both Egyptian and international media after winning **1st place** in the Dell Technologies competition.  
+
+### 📄 News Articles
 - [اليوم السابع](https://share.google/T358GmN6dTkYOzvLd)  
 - [مصراوي](https://www.masrawy.com/news/education-universityeducation/details/2025/9/10/2851441/-%D9%86%D8%A8%D8%AA%D8%A9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B7%D9%84%D8%A7%D8%A8%D9%8A-%D9%8A%D9%81%D9%88%D8%B2-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A-%D8%A7-%D9%81%D9%8A-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D8%AA%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-)  
 - [فيتو](https://www.vetogate.com/5487444)  
 - [الوطن](https://www.elwatannews.com/news/details/8130312)  
 - [الجمهورية](https://algomhuria.gomhuriaonline.com/157913/)  
 - [الدستور](https://www.dostor.org/5208816)  
+- [مجلة الفصلة](https://www.facebook.com/share/p/1GGkqofHuV/)  
+
+
+### 🏛️ Official Announcements  
+- [صفحة جامعة القاهرة الرسمية على فيسبوك](https://www.facebook.com/share/p/1GNXCyYPTJ/)  
+- [وزارة التعليم العالي والبحث العلمي – تهنئة](https://www.facebook.com/100044185308658/posts/pfbid02sCQb4snLJMbTbupbZ9w5na5vx2Lr1p5Apqnz9WsmRRFEHs3TKPEJk7JDPc5wj9h7l/?mibextid=CDWPTG)  
+- [قسم هندسة النظم والحاسبات الطبية الحيوية – جامعة القاهرة (SBME)](https://www.linkedin.com/posts/systems-and-biomedical-engineering-department-cairo-university_biomedicalengineering-systemsengineering-activity-7373103522407587840-merD?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAADlltjYBEcFRugRLr3tsrzwplwl1fHCOMUQ&utm_campaign=copy_link)  
+
+### 📺 TV Program Coverage  
+Our project was also featured in a special episode of the Egyptian TV program **"الخلاصة"** on **قناة المحور**:  
+
+[![Watch on YouTube](https://img.youtube.com/vi/FwhOQz8wDzc/0.jpg)](https://youtu.be/FwhOQz8wDzc?feature=shared)  
+
 
 ---
 
